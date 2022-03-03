@@ -33,6 +33,6 @@
 * [Channel](https://t.me/RiZoeLX)
 * [Support Group](https://t.me/DNHxHELL)
 
-# Credits
+# Credits s
 * [RiZoeL Creator](https://github.com/MrRizoel)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
